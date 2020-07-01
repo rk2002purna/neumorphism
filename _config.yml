@@ -2,9 +2,9 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Pradheep
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Personal website
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "/neumorphism"
@@ -23,8 +23,8 @@ email: doddi_yamini@srmap.edu.in
 github_username: longpdo
 codepen_username: exampleUser
 dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+linkedin_username: https://www.linkedin.com/in/pradheep-d-y-d-92484b17a/
+twitter_username: https://twitter.com/PradheepDYD
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -93,11 +93,11 @@ projects:
     # archived:
     # > setting this to true, will exclude archived repositories
     # > setting this to false, will also display archived repositories
-    archived: true
+    archived: false
     # forks:
     # > setting this to true, will exclude forked repositories
     # > setting this to false, will also display forked repositories
-    forks: true
+    forks: false
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
     # - repo1-to-be-excluded
@@ -107,7 +107,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "UA-158757509-2"
+  id: "UA-171129356-1"
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
