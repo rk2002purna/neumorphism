@@ -4,15 +4,3 @@
 # Example of a framework
 # - name: Framework
 #   weight: 5
-
-- name: Tata Steel: Fundamentals on PCB's
-  weight: 5
-
-- name: Google Cloud Platform Fundamentals
-  weight: 3
-
-- name: Coursera: Crash Course on Python by Google
-  weight: 4
-
-- name: Game Development on Buildbox
-  weight: 4
