@@ -5,29 +5,14 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Tata Steel: Fundamentals on PCB's
   weight: 5
 
-- name: AngularJS
+- name: Google Cloud Platform Fundamentals
   weight: 3
 
-- name: React
+- name: Coursera: Crash Course on Python by Google
   weight: 4
 
-- name: Node
-  weight: 1
-
-- name: Flutter
-  weight: 2
-
-- name: Express
-  weight: 3
-
-- name: Django
-  weight: 1
-
-- name: Spring
-  weight: 2
-
-- name: Rails
+- name: Game Development on Buildbox
   weight: 4
