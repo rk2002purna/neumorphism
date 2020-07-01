@@ -11,26 +11,16 @@
 - name: Bash
   weight: 3
 
-- name: Scrum
+- name: MATLAB
   weight: 3
 
-- name: Travis CI
+- name: GCP
   weight: 1
 
-- name: Jenkins
-  weight: 1
+- name: LTSpice
+  weight: 5
 
-- name: Chrome DevTools
-  weight: 2
-
-- name: npm
-  weight: 2
-
-- name: gulp
+- name: BuildBox
   weight: 4
 
-- name: VS Code
-  weight: 3
 
-- name: Postman
-  weight: 4
