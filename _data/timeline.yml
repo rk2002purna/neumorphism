@@ -17,45 +17,43 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
+- title: APSSDC
   title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+  date: June 2020 - Present
+  subtitle: Web Development as Intern
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: ReactJS
+    - tag: HTML
+    - tag: CSS
+    - tag: GIT
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+- title: Hindustan Coca-Cola Beverages PVT LTD
+  title-url: https://hccb.in/
+  date: June 2019 - July 2019
+  subtitle: In-Plant Traning
   timeline-side: right
 
-- title: Super University
+- title: SRM University
   title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+  date: 2018 - Present
+  subtitle: B.Tech (ECE) 
   timeline-side: left
 
-- title: Facebook
+- title: Sri Chaitanya
   title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+  date: 2016 - 2018
+  subtitle: MPC
   timeline-side: right
 
-- title: Super University
+- title: Ratnam High School
   title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+  date: 2010 - 2016
+  subtitle: 10 std
   timeline-side: left
+  
+- title: Johnson Grammer School
+  title-url: https://example.com/
+  date: 2003 - 2010
+  subtitle: Preschooling
+  timeline-side: right
